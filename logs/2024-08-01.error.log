@@ -1,0 +1,560 @@
+ 2024-08-01 10:14:51 || error | Error: Failed to lookup view "index" in views directory "C:\Users\User\Documents\Planteer for SFMI\src\views"
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:597:17)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:21:7
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:265:14)
+ 2024-08-01 10:14:51 || error | Error: Failed to lookup view "index" in views directory "C:\Users\User\Documents\Planteer for SFMI\src\views"
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:597:17)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:21:7
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:265:14)
+ 2024-08-01 10:15:06 || error | Error: Failed to lookup view "index" in views directory "C:\Users\User\Documents\Planteer for SFMI\src\views"
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:597:17)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:21:7
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:265:14)
+ 2024-08-01 10:15:07 || error | Error: Failed to lookup view "index" in views directory "C:\Users\User\Documents\Planteer for SFMI\src\views"
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:597:17)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:21:7
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:265:14)
+ 2024-08-01 10:15:13 || error | Error: Failed to lookup view "index" in views directory "C:\Users\User\Documents\Planteer for SFMI\src\views"
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:597:17)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:21:7
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:265:14)
+ 2024-08-01 10:15:13 || error | Error: Failed to lookup view "index" in views directory "C:\Users\User\Documents\Planteer for SFMI\src\views"
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:597:17)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:21:7
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:265:14)
+ 2024-08-01 13:18:06 || error | createGuidefile Error: ReferenceError: trigger is not defined
+ 2024-08-01 13:18:44 || error | createGuidefile Error: ReferenceError: trigger is not defined
+ 2024-08-01 13:20:37 || error | createGuidefile Error: ReferenceError: trigger is not defined
+ 2024-08-01 13:21:33 || error | createGuidefile Error: ReferenceError: trigger is not defined
+ 2024-08-01 14:14:43 || error | setTestStepTableStructure : Failed. Please Check the error and data: ReferenceError: NULL is not defined [Data] : [object Object]
+ 2024-08-01 14:14:43 || error | setTestStepData : Failed. Please Check the error and data: ReferenceError: NULL is not defined [Data] : [object Object]
+ 2024-08-01 14:14:43 || error | setTableStructure : Can't make Jira Content. Plaese Check the error and data: ReferenceError: NULL is not defined [Data] : [object Object]
+ 2024-08-01 14:14:43 || error | dataHandler for Fail: ReferenceError: NULL is not defined
+ 2024-08-01 14:14:43 || error | dataCommentHandler : Can't report to JIRA. Please check the error TypeError: Cannot read properties of undefined (reading 'length')
+ 2024-08-01 14:14:43 || error | /api/v1/report Error 500, Internal Server Error in dataUpdateHandler:TypeError: Cannot read properties of undefined (reading 'length')
+ 2024-08-01 14:15:11 || error | setTestStepTableStructure : Failed. Please Check the error and data: ReferenceError: Content is not defined [Data] : [object Object]
+ 2024-08-01 14:15:11 || error | setTestStepData : Failed. Please Check the error and data: ReferenceError: Content is not defined [Data] : [object Object]
+ 2024-08-01 14:15:11 || error | setTableStructure : Can't make Jira Content. Plaese Check the error and data: ReferenceError: Content is not defined [Data] : [object Object]
+ 2024-08-01 14:15:11 || error | dataHandler for Fail: ReferenceError: Content is not defined
+ 2024-08-01 14:15:11 || error | dataCommentHandler : Can't report to JIRA. Please check the error TypeError: Cannot read properties of undefined (reading 'length')
+ 2024-08-01 14:15:11 || error | /api/v1/report Error 500, Internal Server Error in dataUpdateHandler:TypeError: Cannot read properties of undefined (reading 'length')
+ 2024-08-01 16:06:29 || error | Unexpected token { in JSON at position 26556
+ 2024-08-01 16:06:29 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% lists.forEach(faq => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= faq.title %></h3>
+
+lists is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at C:\Users\User\Documents\Planteer for SFMI\lib\resultService.js:30:21
+ 2024-08-01 16:06:29 || error | Unexpected token { in JSON at position 1131
+ 2024-08-01 16:06:29 || error | Unexpected token { in JSON at position 25316
+ 2024-08-01 16:06:29 || error | Unexpected token { in JSON at position 26688
+ 2024-08-01 16:06:29 || error | Unexpected token { in JSON at position 27735
+ 2024-08-01 16:06:29 || error | Unexpected token { in JSON at position 1095
+ 2024-08-01 16:06:29 || error | Unexpected token { in JSON at position 1139
+ 2024-08-01 16:06:29 || error | Unexpected token { in JSON at position 42486
+ 2024-08-01 16:06:29 || error | Unexpected token { in JSON at position 41990
+ 2024-08-01 16:06:29 || error | Unexpected token { in JSON at position 25316
+ 2024-08-01 16:06:29 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% lists.forEach(faq => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= faq.title %></h3>
+
+lists is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at C:\Users\User\Documents\Planteer for SFMI\lib\resultService.js:30:21
+ 2024-08-01 16:06:29 || error | Unexpected token { in JSON at position 26688
+ 2024-08-01 16:06:29 || error | Unexpected token { in JSON at position 1131
+ 2024-08-01 16:06:29 || error | Unexpected token { in JSON at position 27735
+ 2024-08-01 16:06:29 || error | Unexpected token { in JSON at position 1095
+ 2024-08-01 16:06:29 || error | Unexpected token { in JSON at position 26556
+ 2024-08-01 16:06:29 || error | Unexpected token { in JSON at position 1139
+ 2024-08-01 16:06:29 || error | Unexpected token { in JSON at position 42486
+ 2024-08-01 16:06:29 || error | Unexpected token { in JSON at position 41990
+ 2024-08-01 16:08:37 || error | Unexpected token { in JSON at position 25316
+ 2024-08-01 16:08:37 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% lists.forEach(faq => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= faq.title %></h3>
+
+lists is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at C:\Users\User\Documents\Planteer for SFMI\lib\resultService.js:31:21
+ 2024-08-01 16:08:37 || error | Unexpected token { in JSON at position 26688
+ 2024-08-01 16:08:37 || error | Unexpected token { in JSON at position 26556
+ 2024-08-01 16:08:37 || error | Unexpected token { in JSON at position 1131
+ 2024-08-01 16:08:37 || error | Unexpected token { in JSON at position 1095
+ 2024-08-01 16:08:37 || error | Unexpected token { in JSON at position 27735
+ 2024-08-01 16:08:37 || error | Unexpected token { in JSON at position 1139
+ 2024-08-01 16:08:37 || error | Unexpected token { in JSON at position 42486
+ 2024-08-01 16:08:37 || error | Unexpected token { in JSON at position 41990
+ 2024-08-01 16:08:37 || error | Unexpected token { in JSON at position 25316
+ 2024-08-01 16:08:37 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% lists.forEach(faq => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= faq.title %></h3>
+
+lists is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at C:\Users\User\Documents\Planteer for SFMI\lib\resultService.js:31:21
+ 2024-08-01 16:08:37 || error | Unexpected token { in JSON at position 26556
+ 2024-08-01 16:08:37 || error | Unexpected token { in JSON at position 26688
+ 2024-08-01 16:08:37 || error | Unexpected token { in JSON at position 1095
+ 2024-08-01 16:08:37 || error | Unexpected token { in JSON at position 27735
+ 2024-08-01 16:08:37 || error | Unexpected token { in JSON at position 1131
+ 2024-08-01 16:08:37 || error | Unexpected token { in JSON at position 1139
+ 2024-08-01 16:08:37 || error | Unexpected token { in JSON at position 41990
+ 2024-08-01 16:08:37 || error | Unexpected token { in JSON at position 42486
+ 2024-08-01 16:11:44 || error | Unexpected token { in JSON at position 26688
+ 2024-08-01 16:11:44 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% lists.forEach(faq => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= faq.title %></h3>
+
+lists is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at C:\Users\User\Documents\Planteer for SFMI\lib\resultService.js:30:21
+ 2024-08-01 16:11:44 || error | Unexpected token { in JSON at position 25316
+ 2024-08-01 16:11:44 || error | Unexpected token { in JSON at position 1131
+ 2024-08-01 16:11:44 || error | Unexpected token { in JSON at position 1139
+ 2024-08-01 16:11:44 || error | Unexpected token { in JSON at position 27735
+ 2024-08-01 16:11:44 || error | Unexpected token { in JSON at position 26556
+ 2024-08-01 16:11:44 || error | Unexpected token { in JSON at position 1095
+ 2024-08-01 16:11:44 || error | Unexpected token { in JSON at position 42486
+ 2024-08-01 16:11:44 || error | Unexpected token { in JSON at position 41990
+ 2024-08-01 16:11:44 || error | Unexpected token { in JSON at position 25316
+ 2024-08-01 16:11:44 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% lists.forEach(faq => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= faq.title %></h3>
+
+lists is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at C:\Users\User\Documents\Planteer for SFMI\lib\resultService.js:30:21
+ 2024-08-01 16:11:44 || error | Unexpected token { in JSON at position 26556
+ 2024-08-01 16:11:44 || error | Unexpected token { in JSON at position 26688
+ 2024-08-01 16:11:44 || error | Unexpected token { in JSON at position 1131
+ 2024-08-01 16:11:44 || error | Unexpected token { in JSON at position 27735
+ 2024-08-01 16:11:44 || error | Unexpected token { in JSON at position 1095
+ 2024-08-01 16:11:44 || error | Unexpected token { in JSON at position 1139
+ 2024-08-01 16:11:44 || error | Unexpected token { in JSON at position 42486
+ 2024-08-01 16:11:44 || error | Unexpected token { in JSON at position 41990
+ 2024-08-01 16:12:02 || error | Unexpected token { in JSON at position 26556
+ 2024-08-01 16:12:02 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% lists.forEach(faq => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= faq.title %></h3>
+
+lists is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at C:\Users\User\Documents\Planteer for SFMI\lib\resultService.js:30:21
+ 2024-08-01 16:12:02 || error | Unexpected token { in JSON at position 27735
+ 2024-08-01 16:12:02 || error | Unexpected token { in JSON at position 26688
+ 2024-08-01 16:12:02 || error | Unexpected token { in JSON at position 1095
+ 2024-08-01 16:12:02 || error | Unexpected token { in JSON at position 25316
+ 2024-08-01 16:12:02 || error | Unexpected token { in JSON at position 1131
+ 2024-08-01 16:12:02 || error | Unexpected token { in JSON at position 1139
+ 2024-08-01 16:12:02 || error | Unexpected token { in JSON at position 42486
+ 2024-08-01 16:12:02 || error | Unexpected token { in JSON at position 41990
+ 2024-08-01 16:12:02 || error | Unexpected token { in JSON at position 26556
+ 2024-08-01 16:12:02 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% lists.forEach(faq => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= faq.title %></h3>
+
+lists is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at C:\Users\User\Documents\Planteer for SFMI\lib\resultService.js:30:21
+ 2024-08-01 16:12:02 || error | Unexpected token { in JSON at position 26688
+ 2024-08-01 16:12:02 || error | Unexpected token { in JSON at position 1131
+ 2024-08-01 16:12:02 || error | Unexpected token { in JSON at position 1095
+ 2024-08-01 16:12:02 || error | Unexpected token { in JSON at position 27735
+ 2024-08-01 16:12:02 || error | Unexpected token { in JSON at position 25316
+ 2024-08-01 16:12:02 || error | Unexpected token { in JSON at position 1139
+ 2024-08-01 16:12:02 || error | Unexpected token { in JSON at position 42486
+ 2024-08-01 16:12:02 || error | Unexpected token { in JSON at position 41990
+ 2024-08-01 16:12:05 || error | Unexpected token { in JSON at position 26556
+ 2024-08-01 16:12:05 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% lists.forEach(faq => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= faq.title %></h3>
+
+lists is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at C:\Users\User\Documents\Planteer for SFMI\lib\resultService.js:30:21
+ 2024-08-01 16:12:05 || error | Unexpected token { in JSON at position 25316
+ 2024-08-01 16:12:05 || error | Unexpected token { in JSON at position 1131
+ 2024-08-01 16:12:05 || error | Unexpected token { in JSON at position 1139
+ 2024-08-01 16:12:05 || error | Unexpected token { in JSON at position 26688
+ 2024-08-01 16:12:05 || error | Unexpected token { in JSON at position 1095
+ 2024-08-01 16:12:05 || error | Unexpected token { in JSON at position 27735
+ 2024-08-01 16:12:05 || error | Unexpected token { in JSON at position 42486
+ 2024-08-01 16:12:05 || error | Unexpected token { in JSON at position 41990
+ 2024-08-01 16:12:05 || error | Unexpected token { in JSON at position 25316
+ 2024-08-01 16:12:05 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% lists.forEach(faq => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= faq.title %></h3>
+
+lists is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at C:\Users\User\Documents\Planteer for SFMI\lib\resultService.js:30:21
+ 2024-08-01 16:12:05 || error | Unexpected token { in JSON at position 26556
+ 2024-08-01 16:12:05 || error | Unexpected token { in JSON at position 26688
+ 2024-08-01 16:12:05 || error | Unexpected token { in JSON at position 1131
+ 2024-08-01 16:12:05 || error | Unexpected token { in JSON at position 1095
+ 2024-08-01 16:12:05 || error | Unexpected token { in JSON at position 27735
+ 2024-08-01 16:12:05 || error | Unexpected token { in JSON at position 1139
+ 2024-08-01 16:12:05 || error | Unexpected token { in JSON at position 41990
+ 2024-08-01 16:12:05 || error | Unexpected token { in JSON at position 42486
+ 2024-08-01 16:12:44 || error | Unexpected token { in JSON at position 1131
+ 2024-08-01 16:12:44 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% lists.forEach(faq => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= faq.title %></h3>
+
+lists is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at C:\Users\User\Documents\Planteer for SFMI\lib\resultService.js:30:21
+ 2024-08-01 16:12:44 || error | Unexpected token { in JSON at position 26688
+ 2024-08-01 16:12:44 || error | Unexpected token { in JSON at position 26556
+ 2024-08-01 16:12:44 || error | Unexpected token { in JSON at position 25316
+ 2024-08-01 16:12:44 || error | Unexpected token { in JSON at position 27735
+ 2024-08-01 16:12:44 || error | Unexpected token { in JSON at position 1095
+ 2024-08-01 16:12:44 || error | Unexpected token { in JSON at position 1139
+ 2024-08-01 16:12:44 || error | Unexpected token { in JSON at position 41990
+ 2024-08-01 16:12:44 || error | Unexpected token { in JSON at position 42486
+ 2024-08-01 16:12:44 || error | Unexpected token { in JSON at position 25316
+ 2024-08-01 16:12:44 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% lists.forEach(faq => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= faq.title %></h3>
+
+lists is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at C:\Users\User\Documents\Planteer for SFMI\lib\resultService.js:30:21
+ 2024-08-01 16:12:44 || error | Unexpected token { in JSON at position 1131
+ 2024-08-01 16:12:44 || error | Unexpected token { in JSON at position 26688
+ 2024-08-01 16:12:44 || error | Unexpected token { in JSON at position 1095
+ 2024-08-01 16:12:44 || error | Unexpected token { in JSON at position 1139
+ 2024-08-01 16:12:44 || error | Unexpected token { in JSON at position 26556
+ 2024-08-01 16:12:44 || error | Unexpected token { in JSON at position 27735
+ 2024-08-01 16:12:44 || error | Unexpected token { in JSON at position 41990
+ 2024-08-01 16:12:44 || error | Unexpected token { in JSON at position 42486
+ 2024-08-01 16:13:42 || error | Unexpected token { in JSON at position 26556
+ 2024-08-01 16:13:42 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% faqs.forEach(faq => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= faq.title %></h3>
+
+faqs is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at C:\Users\User\Documents\Planteer for SFMI\lib\resultService.js:30:21
+ 2024-08-01 16:13:42 || error | Unexpected token { in JSON at position 25316
+ 2024-08-01 16:13:42 || error | Unexpected token { in JSON at position 26688
+ 2024-08-01 16:13:42 || error | Unexpected token { in JSON at position 1131
+ 2024-08-01 16:13:42 || error | Unexpected token { in JSON at position 27735
+ 2024-08-01 16:13:42 || error | Unexpected token { in JSON at position 1095
+ 2024-08-01 16:13:42 || error | Unexpected token { in JSON at position 1139
+ 2024-08-01 16:13:42 || error | Unexpected token { in JSON at position 42486
+ 2024-08-01 16:13:42 || error | Unexpected token { in JSON at position 41990
+ 2024-08-01 16:13:42 || error | Unexpected token { in JSON at position 25316
+ 2024-08-01 16:13:42 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% faqs.forEach(faq => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= faq.title %></h3>
+
+faqs is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at C:\Users\User\Documents\Planteer for SFMI\lib\resultService.js:30:21
+ 2024-08-01 16:13:42 || error | Unexpected token { in JSON at position 26688
+ 2024-08-01 16:13:42 || error | Unexpected token { in JSON at position 1131
+ 2024-08-01 16:13:42 || error | Unexpected token { in JSON at position 26556
+ 2024-08-01 16:13:42 || error | Unexpected token { in JSON at position 1139
+ 2024-08-01 16:13:42 || error | Unexpected token { in JSON at position 27735
+ 2024-08-01 16:13:42 || error | Unexpected token { in JSON at position 1095
+ 2024-08-01 16:13:42 || error | Unexpected token { in JSON at position 42486
+ 2024-08-01 16:13:42 || error | Unexpected token { in JSON at position 41990
+ 2024-08-01 16:17:43 || error | Unexpected token { in JSON at position 1131
+ 2024-08-01 16:17:43 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% faqs.forEach(faq => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= faq.title %></h3>
+
+faqs is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at C:\Users\User\Documents\Planteer for SFMI\lib\resultService.js:30:21
+ 2024-08-01 16:17:43 || error | Unexpected token { in JSON at position 25316
+ 2024-08-01 16:17:43 || error | Unexpected token { in JSON at position 26556
+ 2024-08-01 16:17:43 || error | Unexpected token { in JSON at position 1139
+ 2024-08-01 16:17:43 || error | Unexpected token { in JSON at position 26688
+ 2024-08-01 16:17:43 || error | Unexpected token { in JSON at position 27735
+ 2024-08-01 16:17:43 || error | Unexpected token { in JSON at position 1095
+ 2024-08-01 16:17:43 || error | Unexpected token { in JSON at position 41990
+ 2024-08-01 16:17:43 || error | Unexpected token { in JSON at position 42486
+ 2024-08-01 16:17:43 || error | Unexpected token { in JSON at position 25316
+ 2024-08-01 16:17:43 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% faqs.forEach(faq => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= faq.title %></h3>
+
+faqs is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at C:\Users\User\Documents\Planteer for SFMI\lib\resultService.js:30:21
+ 2024-08-01 16:17:43 || error | Unexpected token { in JSON at position 26556
+ 2024-08-01 16:17:43 || error | Unexpected token { in JSON at position 1131
+ 2024-08-01 16:17:43 || error | Unexpected token { in JSON at position 1095
+ 2024-08-01 16:17:43 || error | Unexpected token { in JSON at position 26688
+ 2024-08-01 16:17:43 || error | Unexpected token { in JSON at position 27735
+ 2024-08-01 16:17:43 || error | Unexpected token { in JSON at position 1139
+ 2024-08-01 16:17:43 || error | Unexpected token { in JSON at position 42486
+ 2024-08-01 16:17:43 || error | Unexpected token { in JSON at position 41990
+ 2024-08-01 16:20:56 || error | Error: Failed to lookup view "result" in views directory "C:\Users\User\Documents\Planteer for SFMI\src\views"
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:597:17)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:41:9
+    at FSReqCallback.oncomplete (node:fs:192:23)
+ 2024-08-01 16:20:56 || error | Error: Failed to lookup view "result" in views directory "C:\Users\User\Documents\Planteer for SFMI\src\views"
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:597:17)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:41:9
+    at FSReqCallback.oncomplete (node:fs:192:23)
+ 2024-08-01 16:20:57 || error | Error: Failed to lookup view "result" in views directory "C:\Users\User\Documents\Planteer for SFMI\src\views"
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:597:17)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:41:9
+    at FSReqCallback.oncomplete (node:fs:192:23)
+ 2024-08-01 16:20:57 || error | Error: Failed to lookup view "result" in views directory "C:\Users\User\Documents\Planteer for SFMI\src\views"
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:597:17)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:41:9
+    at FSReqCallback.oncomplete (node:fs:192:23)
+ 2024-08-01 16:22:05 || error | Error: Failed to lookup view "result" in views directory "C:\Users\User\Documents\Planteer for SFMI\src\views"
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:597:17)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:41:9
+    at FSReqCallback.oncomplete (node:fs:192:23)
+ 2024-08-01 16:22:05 || error | Error: Failed to lookup view "result" in views directory "C:\Users\User\Documents\Planteer for SFMI\src\views"
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:597:17)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:41:9
+    at FSReqCallback.oncomplete (node:fs:192:23)

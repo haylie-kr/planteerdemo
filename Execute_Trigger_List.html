@@ -1,0 +1,146 @@
+
+                <!DOCTYPE html>
+                <html lang="en">
+                <head>
+                    <meta charset="UTF-8">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    <title>Execute Trigger</title>
+                    <style>
+                        table {
+                            border-collapse: collapse;
+                            width: 100%;
+                        }
+                        th, td {
+                            border: 1px solid #ddd;
+                            padding: 8px;
+                            text-align: left;
+                        }
+                        th {
+                            background-color: #f2f2f2;
+                        }
+                        .btn {
+                            padding: 5px 10px;
+                            color: white;
+                            background-color: #007bff;
+                            border: none;
+                            border-radius: 4px;
+                            cursor: pointer;
+                        }
+                        .btn:hover {
+                            background-color: #0056b3;
+                        }
+                            .schedule-form {
+                            display: flex;
+                            align-items: center;
+                            margin-top: 10px;
+                        }
+                        .schedule-form input[type="text"] {
+                            width: 150px; /* 원하는 너비로 조정 */
+                            padding: 5px;
+                            margin-right: 10px; /* 버튼과의 간격 */
+                        }
+                        .schedule-form button {
+                            padding: 5px 10px;
+                            color: white;
+                            background-color: #007bff;
+                            border: none;
+                            border-radius: 4px;
+                            cursor: pointer;
+                        }
+                        .schedule-form button:hover {
+                            background-color: #0056b3;
+                        }
+                    </style>
+                </head>
+                <body>
+                    <table id="ExecuteTable">
+                        <thead>
+                            <tr>
+                                <th>TestEvent (Ticket)</th>
+                                <th>Unique ID</th>
+                                <th>Execute Trigger</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+            
+                    <tr>
+                        <td>TT-1</td>
+                        <td>3a1432e3-89b8-79a7-1e1f-dc8950a436e2</td>
+                        <td>
+                        http://192.168.0.56:1020/api/v2/execute?eventname=TT-1
+                        </td>
+                        <td>
+                           <div class="form-container">
+                            <form action="/schedule-event" method="GET" class="schedule-form">
+                                <input type="text" id="cronExpression-TT-2" name="cronExpression" required>
+                                <button type="submit" class="btn">Submit</button>
+                            </form>
+                          </div>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>TT-2</td>
+                        <td>3a1432ff-1b5e-c895-9cc8-acab46f0e732</td>
+                        <td>
+                        http://192.168.0.56:1020/api/v2/execute?eventname=TT-2
+                        </td>
+                        <td>
+                           <div class="form-container">
+                            <form action="/schedule-event" method="GET" class="schedule-form">
+                                <input type="text" id="cronExpression-TT-2" name="cronExpression" required>
+                                <button type="submit" class="btn">Submit</button>
+                            </form>
+                          </div>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>TT-3</td>
+                        <td>3a143315-22fb-1230-f04e-8bcfca798fe1</td>
+                        <td>
+                        http://192.168.0.56:1020/api/v2/execute?eventname=TT-3
+                        </td>
+                        <td>
+                           <div class="form-container">
+                            <form action="/schedule-event" method="GET" class="schedule-form">
+                                <input type="text" id="cronExpression-TT-2" name="cronExpression" required>
+                                <button type="submit" class="btn">Submit</button>
+                            </form>
+                          </div>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>TT-4</td>
+                        <td>3a14333b-090d-cdb2-47d5-5642e45d2c60</td>
+                        <td>
+                        http://192.168.0.56:1020/api/v2/execute?eventname=TT-4
+                        </td>
+                        <td>
+                           <div class="form-container">
+                            <form action="/schedule-event" method="GET" class="schedule-form">
+                                <input type="text" id="cronExpression-TT-2" name="cronExpression" required>
+                                <button type="submit" class="btn">Submit</button>
+                            </form>
+                          </div>
+                        </td>
+                    </tr>
+                
+                        </tbody>
+                    </table>
+                    <script>
+                        function handleButtonClick(trigger) {
+                            fetch(trigger)
+                                .then(response => response.json())
+                                .then(data => {
+                                    console.log('Success:', data);
+                                })
+                                .catch((error) => {
+                                    console.error('Error:', error);
+                                });
+                        }
+                    </script>
+                </body>
+                </html>
+            

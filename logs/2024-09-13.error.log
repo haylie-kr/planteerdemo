@@ -1,0 +1,6 @@
+ 2024-09-13 10:51:28 || error | getResultforFront : Error: ENOENT: no such file or directory, scandir 'C:\Users\User\Documents\files\2024-09-13'
+ 2024-09-13 11:03:31 || error | getResultforFront : ReferenceError: todayDirName is not defined
+ 2024-09-13 12:06:13 || error | getResultforFront : Error: ENOENT: no such file or directory, scandir 'C:\Users\User\Documents\files\2024-09-13'
+ 2024-09-13 13:16:23 || error | getResultforFront : Error: ENOENT: no such file or directory, scandir 'C:\Users\User\Documents\files\2024-09-13'
+ 2024-09-13 13:39:46 || error | getResultforFront : Error: ENOENT: no such file or directory, access 'C:\Users\User\Documents\files\2024-09-13'
+ 2024-09-13 13:42:30 || error | getResultforFront : Error: ENOENT: no such file or directory, access 'C:\Users\User\Documents\files\2024-09-13'

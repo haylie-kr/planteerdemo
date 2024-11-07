@@ -1,0 +1,382 @@
+ 2024-08-08 13:32:31 || error | getResultforFront : TypeError: fs.readFileSync is not a function
+ 2024-08-08 13:32:32 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ 2024-08-08 13:32:32 || error | getResultforFront : TypeError: fs.readFileSync is not a function
+ 2024-08-08 13:32:32 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ 2024-08-08 13:34:01 || error | getResultforFront : SyntaxError: Unexpected token o in JSON at position 1
+ 2024-08-08 13:34:01 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ 2024-08-08 13:34:01 || error | getResultforFront : SyntaxError: Unexpected token o in JSON at position 1
+ 2024-08-08 13:34:01 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+ 2024-08-08 15:44:23 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:54
+    52|                                     </thead>
+    53|                                     <tbody>                                        
+ >> 54|                                     <% triggers.forEach(trigger => {%>
+    55| 
+    56|                                     <% }) %>
+    57|                                     </tbody>
+
+triggers is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+ 2024-08-08 15:44:23 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:54
+    52|                                     </thead>
+    53|                                     <tbody>                                        
+ >> 54|                                     <% triggers.forEach(trigger => {%>
+    55| 
+    56|                                     <% }) %>
+    57|                                     </tbody>
+
+triggers is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+ 2024-08-08 15:59:23 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:54
+    52|                                     </thead>
+    53|                                     <tbody>     
+ >> 54|                                         <% trigger.forEach(trigger => { %>
+    55|                                             <tr>
+    56|                                                 <td><%trigger["TestEvent DisplayName"]%></td>
+    57|                                                 <td><%trigger["TestEvent UniqueID"]%></td>
+
+trigger is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+ 2024-08-08 15:59:23 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:54
+    52|                                     </thead>
+    53|                                     <tbody>     
+ >> 54|                                         <% trigger.forEach(trigger => { %>
+    55|                                             <tr>
+    56|                                                 <td><%trigger["TestEvent DisplayName"]%></td>
+    57|                                                 <td><%trigger["TestEvent UniqueID"]%></td>
+
+trigger is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+ 2024-08-08 15:59:41 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:54
+    52|                                     </thead>
+    53|                                     <tbody>     
+ >> 54|                                         <% triggers.forEach(trigger => { %>
+    55|                                             <tr>
+    56|                                                 <td><%trigger["TestEvent DisplayName"]%></td>
+    57|                                                 <td><%trigger["TestEvent UniqueID"]%></td>
+
+triggers is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+ 2024-08-08 15:59:41 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:54
+    52|                                     </thead>
+    53|                                     <tbody>     
+ >> 54|                                         <% triggers.forEach(trigger => { %>
+    55|                                             <tr>
+    56|                                                 <td><%trigger["TestEvent DisplayName"]%></td>
+    57|                                                 <td><%trigger["TestEvent UniqueID"]%></td>
+
+triggers is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+ 2024-08-08 16:00:40 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:54
+    52|                                     </thead>
+    53|                                     <tbody>     
+ >> 54|                                         <% triggers.forEach(trigger => { %>
+    55|                                             <tr>
+    56|                                                 <td><%=trigger["TestEvent DisplayName"]%></td>
+    57|                                                 <td><%=trigger["TestEvent UniqueID"]%></td>
+
+triggers.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:17)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-08 16:00:40 || error | getTriggerforFront : ReferenceError: rs is not defined
+ 2024-08-08 16:00:40 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:54
+    52|                                     </thead>
+    53|                                     <tbody>     
+ >> 54|                                         <% triggers.forEach(trigger => { %>
+    55|                                             <tr>
+    56|                                                 <td><%=trigger["TestEvent DisplayName"]%></td>
+    57|                                                 <td><%=trigger["TestEvent UniqueID"]%></td>
+
+triggers.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:17)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-08 16:00:40 || error | getTriggerforFront : ReferenceError: rs is not defined
+ 2024-08-08 16:01:08 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:54
+    52|                                     </thead>
+    53|                                     <tbody>     
+ >> 54|                                         <% triggers.forEach(trigger => { %>
+    55|                                             <tr>
+    56|                                                 <td><%=trigger["TestEvent DisplayName"]%></td>
+    57|                                                 <td><%=trigger["TestEvent UniqueID"]%></td>
+
+triggers.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:17)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-08 16:01:08 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:54
+    52|                                     </thead>
+    53|                                     <tbody>     
+ >> 54|                                         <% triggers.forEach(trigger => { %>
+    55|                                             <tr>
+    56|                                                 <td><%=trigger["TestEvent DisplayName"]%></td>
+    57|                                                 <td><%=trigger["TestEvent UniqueID"]%></td>
+
+triggers.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:17)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-08 16:03:04 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:54
+    52|                                     </thead>
+    53|                                     <tbody>     
+ >> 54|                                         <% triggers.forEach(trigger => { %>
+    55|                                             <tr>
+    56|                                                 <td><%=trigger["TestEvent DisplayName"]%></td>
+    57|                                                 <td><%=trigger["TestEvent UniqueID"]%></td>
+
+triggers.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:17)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-08 16:03:04 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:54
+    52|                                     </thead>
+    53|                                     <tbody>     
+ >> 54|                                         <% triggers.forEach(trigger => { %>
+    55|                                             <tr>
+    56|                                                 <td><%=trigger["TestEvent DisplayName"]%></td>
+    57|                                                 <td><%=trigger["TestEvent UniqueID"]%></td>
+
+triggers.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:17)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-08 16:04:45 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:54
+    52|                                     </thead>
+    53|                                     <tbody>     
+ >> 54|                                         <% triggers.forEach(trigger => { %>
+    55|                                             <tr>
+    56|                                                 <td><%=trigger["TestEvent DisplayName"]%></td>
+    57|                                                 <td><%=trigger["TestEvent UniqueID"]%></td>
+
+triggers.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:17)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-08 16:04:45 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:54
+    52|                                     </thead>
+    53|                                     <tbody>     
+ >> 54|                                         <% triggers.forEach(trigger => { %>
+    55|                                             <tr>
+    56|                                                 <td><%=trigger["TestEvent DisplayName"]%></td>
+    57|                                                 <td><%=trigger["TestEvent UniqueID"]%></td>
+
+triggers.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:17)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-08 16:05:01 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:54
+    52|                                     </thead>
+    53|                                     <tbody>     
+ >> 54|                                         <% triggers.forEach(trigger => { %>
+    55|                                             <tr>
+    56|                                                 <td><%=trigger["TestEvent DisplayName"]%></td>
+    57|                                                 <td><%=trigger["TestEvent UniqueID"]%></td>
+
+triggers.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:17)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-08 16:05:01 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:54
+    52|                                     </thead>
+    53|                                     <tbody>     
+ >> 54|                                         <% triggers.forEach(trigger => { %>
+    55|                                             <tr>
+    56|                                                 <td><%=trigger["TestEvent DisplayName"]%></td>
+    57|                                                 <td><%=trigger["TestEvent UniqueID"]%></td>
+
+triggers.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:17)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:8
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-08 18:54:26 || error | View side UpdateAll Error: Error: connect ETIMEDOUT 43.203.84.251:443
+ 2024-08-08 18:54:26 || error | connect ETIMEDOUT 43.203.84.251:443

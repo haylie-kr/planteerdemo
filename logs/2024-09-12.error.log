@@ -1,0 +1,3 @@
+ 2024-09-12 14:08:32 || error | dataCommentHandler : Can't report to JIRA. Please check the error : {"errorMessages":["Issue Does Not Exist"],"errors":{}}
+ 2024-09-12 14:08:32 || error | /api/v1/report Error 500, Internal Server Error in dataUpdateHandler:{"errorMessages":["Issue Does Not Exist"],"errors":{}}
+ 2024-09-12 14:12:45 || error | getResultforFront : ReferenceError: DirPath is not defined

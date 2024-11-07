@@ -1,0 +1,93 @@
+
+                <!DOCTYPE html>
+                <html lang="en">
+                <head>
+                    <meta charset="UTF-8">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    <title>Execute Trigger</title>
+                    <style>
+                        table {
+                            border-collapse: collapse;
+                            width: 100%;
+                        }
+                        th, td {
+                            border: 1px solid #ddd;
+                            padding: 8px;
+                            text-align: left;
+                        }
+                        th {
+                            background-color: #f2f2f2;
+                        }
+                        .btn {
+                            padding: 5px 10px;
+                            color: white;
+                            background-color: #007bff;
+                            border: none;
+                            border-radius: 4px;
+                            cursor: pointer;
+                        }
+                        .btn:hover {
+                            background-color: #0056b3;
+                        }
+                    </style>
+                </head>
+                <body>
+                    <table id="ExecuteTable">
+                        <thead>
+                            <tr>
+                                <th>TestEvent (Ticket)</th>
+                                <th>Unique ID</th>
+                                <th>Execute Trigger</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+            
+                    <tr>
+                        <td>TT-1</td>
+                        <td>3a1382bd-e575-6ee8-9769-ff06b354d561</td>
+                        <td>
+                            <button class="btn" onclick="handleButtonClick('http://192.168.0.56:1020/api/v2/execute?eventname=TT-1')">Trigger</button>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>TT-4</td>
+                        <td>3a13a383-b872-76c3-5535-1e6d4935dcc9</td>
+                        <td>
+                            <button class="btn" onclick="handleButtonClick('http://192.168.0.56:1020/api/v2/execute?eventname=TT-4')">Trigger</button>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>TT-2</td>
+                        <td>3a13d6f5-9fdb-08de-79a9-241913e80bd0</td>
+                        <td>
+                            <button class="btn" onclick="handleButtonClick('http://192.168.0.56:1020/api/v2/execute?eventname=TT-2')">Trigger</button>
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td>TT-3</td>
+                        <td>3a13d702-0eb0-bfab-e5c6-0a85466ffd2a</td>
+                        <td>
+                            <button class="btn" onclick="handleButtonClick('http://192.168.0.56:1020/api/v2/execute?eventname=TT-3')">Trigger</button>
+                        </td>
+                    </tr>
+                
+                        </tbody>
+                    </table>
+                    <script>
+                        function handleButtonClick(trigger) {
+                            fetch(trigger)
+                                .then(response => response.json())
+                                .then(data => {
+                                    console.log('Success:', data);
+                                })
+                                .catch((error) => {
+                                    console.error('Error:', error);
+                                });
+                        }
+                    </script>
+                </body>
+                </html>
+            

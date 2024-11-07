@@ -1,0 +1,43 @@
+{
+    "credential" : {
+    "baseUrl" : "jira.aa.mousoft.co.kr",
+    "port" : "443",
+    "username" : "Taeyeon",
+    "password" : "plateer1!",
+    "accessToken" : ""
+    },
+
+    "ToscaServer" :{
+        "baseUrl" : "ctepart.idtplateer.com",
+        "port" : "443",
+        "View" : "C:\\Tosca_Projects\\Tosca_Workspaces\\CTEproject\\CTEproject.tws",
+        "User" : "Admin",
+        "PW" : "",
+        "accessToken": "ew0KICAiQ2xpZW50SWQiOiAiYk1MbnphTkMtMFdHTkxWbWpCbnJrZyIsDQogICJEaXNwbGF5TmFtZSI6ICJ0b2tlbjIiLA0KICAiQ2xpZW50U2VjcmV0IjogImdsd0w5VXRKVDBLYXJiaWtkdzJ5UXdveWFHV2JKWVpFQ2ppU0YtTkZZTGhnIiwNCiAgIlNjb3BlcyI6IFsNCiAgICAiQXV0aGVudGljYXRpb25TZXJ2aWNlQXBpIiwNCiAgICAiRGV4QXBpIiwNCiAgICAiRmlsZVNlcnZpY2VBcGkiLA0KICAgICJQcm9qZWN0U2VydmljZUFwaSIsDQogICAgIlRlc3REYXRhU2VydmljZUFwaSIsDQogICAgIlRvc2NhQXV0b21hdGlvbk9iamVjdFNlcnZpY2VBcGkiLA0KICAgICJBZG1pbkNvbnNvbGVBcGkiLA0KICAgICJNaWdyYXRpb25TZXJ2aWNlQXBpIiwNCiAgICAiRXhlY3V0aW9uUmVzdWx0U2VydmljZUFwaSIsDQogICAgIlJwYUFwaUdhdGV3YXlBcGkiLA0KICAgICJUZXN0RGVzaWduU3R1ZGlvQXBpIiwNCiAgICAiTmV4dXNBcGkiLA0KICAgICJPc3ZTdHVkaW9BcGkiLA0KICAgICJMaXZlQ29tcGFyZVNlcnZpY2VBcGkiLA0KICAgICJEYXRhSW50ZWdyaXR5U2VydmljZUFwaSIsDQogICAgIk5vdGlmaWNhdGlvblNlcnZpY2VBcGkiLA0KICAgICJFeGFtcGxlU2VydmljZUFwaSIsDQogICAgIlNhcEludGVncmF0aW9uQXBpIiwNCiAgICAiTWJ0U2VydmljZUFwaSIsDQogICAgIkh1YlNlcnZpY2VBcGkiLA0KICAgICJHYXRld2F5QXBpIiwNCiAgICAiTGljZW5zZUFkbWluaXN0cmF0aW9uQXBpIiwNCiAgICAidmlzaW9uYWkubmV4dXMuYXBpIiwNCiAgICAidmlzaW9uYWkuYWdlbnQuYXBpIiwNCiAgICAiYXV0aGVudGljYXRpb24uZ3JvdXBzLnJlYWQiDQogIF0NCn0="
+    },
+    "PlantServer" :{
+        "baseUrl" : "192.168.0.56",
+        "port" : "1020"
+    },
+    "FileStorage" :{
+        "path" : "C:/Users/User/Documents/files/"
+    },
+
+    "ExecutionList" : {
+        "path" : "files/executionlist.json",
+        "endpoint" : "/automationobjectservice/",
+        "htmlpath" : "C:\\Users\\User\\Documents\\planteer-server\\public\\"
+    },
+
+    "ExecutionFile" : {
+        "path" : "C:\\Users\\User\\Desktop\\한글.bat"
+    },
+
+    "Credit" : {
+        "token_Url": "ctepart.idtplateer.com",
+        "client_ID": "bMLnzaNC-0WGNLVmjBnrkg",
+        "client_SECRET": "glwL9UtJT0Karbikdw2yQwoyaGWbJYZECjiSF-NFYLhg"
+    }
+}
+
+

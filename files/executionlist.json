@@ -1,0 +1,30 @@
+[
+  {
+    "TestEvent DisplayName": "TT-1",
+    "TestEvent UniqueID": "3a1432e3-89b8-79a7-1e1f-dc8950a436e2",
+    "TestEvent ExecuteTrigger": "http://192.168.0.56:1020/api/v2/execute?eventname=TT-1",
+    "TestEvent Execute": "/rest/toscacommander/View/object/3a1432e3-89b8-79a7-1e1f-dc8950a436e2/task/ExecuteNow",
+    "TestEvent Schedule": "none"
+  },
+  {
+    "TestEvent DisplayName": "TT-2",
+    "TestEvent UniqueID": "3a1432ff-1b5e-c895-9cc8-acab46f0e732",
+    "TestEvent ExecuteTrigger": "http://192.168.0.56:1020/api/v2/execute?eventname=TT-2",
+    "TestEvent Execute": "/rest/toscacommander/View/object/3a1432ff-1b5e-c895-9cc8-acab46f0e732/task/ExecuteNow",
+    "TestEvent Schedule": "none"
+  },
+  {
+    "TestEvent DisplayName": "TT-3",
+    "TestEvent UniqueID": "3a143315-22fb-1230-f04e-8bcfca798fe1",
+    "TestEvent ExecuteTrigger": "http://192.168.0.56:1020/api/v2/execute?eventname=TT-3",
+    "TestEvent Execute": "/rest/toscacommander/View/object/3a143315-22fb-1230-f04e-8bcfca798fe1/task/ExecuteNow",
+    "TestEvent Schedule": "none"
+  },
+  {
+    "TestEvent DisplayName": "TT-4",
+    "TestEvent UniqueID": "3a14333b-090d-cdb2-47d5-5642e45d2c60",
+    "TestEvent ExecuteTrigger": "http://192.168.0.56:1020/api/v2/execute?eventname=TT-4",
+    "TestEvent Execute": "/rest/toscacommander/View/object/3a14333b-090d-cdb2-47d5-5642e45d2c60/task/ExecuteNow",
+    "TestEvent Schedule": "none"
+  }
+]

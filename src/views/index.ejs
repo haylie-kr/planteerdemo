@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="Haylie@plateer" />
+        <title>Planteer Simple dashboard</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+            <div class="container px-4">
+                <a class="navbar-brand" href="#page-top"><img src= "assets/logo.png" class="navbar-brand img" alt="Planteer Logo"> PLANTEER</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item"><a class="nav-link" href="#execute">Execute</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#Monitor">Monitor</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#Result">Result</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Header-->
+        <header class="bg-primary bg-gradient text-white">
+            <div class="container px-4 text-center">
+                <h1 class="fw-bolder">Welcome to CT dashboard</h1>
+                <p class="lead">Easy Run, Mornitor and check the result with PLANTEER!</p>
+                <a class="btn btn-lg btn-light" href="#execute">Let's execute on DEX!</a>
+            </div>
+        </header>
+        <!-- About section-->
+        <section id="execute">
+            <div class="container px-4">
+                <div class="row gx-4 justify-content-center">
+                    <div class="col-lg-8">
+                        <h2>Execute Now</h2>
+                        <p class="lead">You can execute the dex agent by TestEvent Now.</p>
+                            <table id="ExecuteTable" class = ".table-responsive">
+                                    <thead>
+                                        <tr>
+                                            <th>TestEvent (Ticket)</th>
+                                            <th>Unique ID</th>
+                                            <th>Run</th>
+                                            <th>Schedule</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>     
+                                        <% triggers.forEach(trigger => { %>
+                                            <tr>
+                                                <td><%=trigger["TestEvent DisplayName"]%></td>
+                                                <td width = 330px><%=trigger["TestEvent UniqueID"]%></td>
+                                                <td class ="button">
+                                                      <button onclick="handleButtonClick(`<%= trigger["TestEvent ExecuteTrigger"] %>`)"> Execute </button>                                                 
+                                                </td>
+                                                <td>
+                                                   <div class="form-container">
+                                                    <form id="schedule-form" action="/schedule-event" method="POST" class ="schedule-form">
+                                                        <input type="text" id="cronExpression-<%= trigger["TestEvent DisplayName"] %>" name="cronExpression" value="<%= trigger["TestEvent Schedule"] %>" required>
+                                                        <input type="hidden" name="uniqueID" value="<%= trigger["TestEvent UniqueID"] %>">
+                                                        <button type="submit" class="btn">Submit</button>
+                                                    </form>
+                                                  </div>
+                                                </td>
+                                            </tr>
+                                        <%})%>  
+                                    </tbody>
+                                </table>
+                                <div>
+                                    <p></p>
+                                   <ul class="container">
+                                        <li class="cronjob">
+                                            <div class="cronjob__question">
+                                                <p class="cronjob__title">Schedule Expression</p>
+                                            </div>
+                                            <div class="cronjob__answer">
+                                            <div class="cron-structure">
+    * * * * * *
+    | | | | | |
+    | | | | | └─── Day of the week (0 - 7) (Sunday = 0 or 7)
+    | | | | └────── Month (1 - 12)
+    | | | └────────── Day of the month (1 - 31)
+    | | └────────────── Hour (0 - 23)
+    | └───────────────── Minute (0 - 59)
+    └───────────────── Second (0 - 59)
+ 
+    '*' : every possible value for the time unit     
+    none : No cron job
+                                        </div>
+
+                                            </div>
+                                            <button class="cronjob__btn">
+                                                <span class="cronjob__icon open">+</span>
+                                                <span class="cronjob__icon close">-</span>
+                                            </button>
+                                        </li>
+                                </ul>
+                                </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Services section-->
+        <section class="bg-light" id="Monitor">
+            <div class="container px-4">
+                <div class="row gx-4 justify-content-center">
+                    <div class="col-lg-8">
+                        <h2>Event Mornitor Now</h2>
+                        <p class="lead"> Reference Tricentis Event Mornitor</p>
+                    </div>
+                    <div class="ratio ratio-16x9">
+                        <iframe src="https://ctepart.idtplateer.com/Monitor/EventMonitor" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Contact section-->
+        <section id="Result">
+            <div class="container px-4">
+                <div class="row gx-4 justify-content-center">
+                    <div class="col-lg-8">
+                        <h2>Result</h2>
+                        <p class="lead">You can check the Result Here!</p>
+                        <ul class="faq-container">
+                            <% details.forEach(detail => { %>
+                                <li class="faq">
+                                    <div class="faq__question">
+                                        <h3 class="faq__title"><%= detail.title %></h3>
+                                    </div>
+                                    <div class="faq__answer">
+                                        <p class="faq__text"><%- detail.answer %></p>                                             
+                                        <canvas id="chart-<%= detail.title.replace(/\s+/g, '-') %>"></canvas>
+                                    </div>                               
+                                    <button class="faq__btn">
+                                        <span class="faq__icon open">+</span>
+                                        <span class="faq__icon close">-</span>
+                                    </button>
+                                </li>
+                            <% }) %>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- Footer-->
+        <footer class="py-5 bg-dark">
+            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; Planteer 2024</p></div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+        <script src="js/resultView.js"></script>
+        <script src="js/draw.js"></script>        
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    </body>
+</html>

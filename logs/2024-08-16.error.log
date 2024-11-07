@@ -1,0 +1,92 @@
+ 2024-08-16 11:09:05 || error | View side UpdateAll Error: Error: connect ETIMEDOUT 43.203.84.251:443
+ 2024-08-16 11:09:05 || error | connect ETIMEDOUT 43.203.84.251:443
+ 2024-08-16 11:41:26 || error | SyntaxError: Unexpected token 'var' in C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+    at new Function (<anonymous>)
+    at Template.compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12)
+    at Object.compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:398:16)
+    at handleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:235:18)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:16)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+ 2024-08-16 11:41:27 || error | SyntaxError: Unexpected token 'var' in C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+    at new Function (<anonymous>)
+    at Template.compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12)
+    at Object.compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:398:16)
+    at handleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:235:18)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:16)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+ 2024-08-16 11:41:51 || error | SyntaxError: Unexpected token 'var' in C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+    at new Function (<anonymous>)
+    at Template.compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12)
+    at Object.compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:398:16)
+    at handleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:235:18)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:16)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+ 2024-08-16 11:41:51 || error | SyntaxError: Unexpected token 'var' in C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+    at new Function (<anonymous>)
+    at Template.compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12)
+    at Object.compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:398:16)
+    at handleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:235:18)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:16)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+ 2024-08-16 11:41:59 || error | SyntaxError: Unexpected token 'var' in C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+    at new Function (<anonymous>)
+    at Template.compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12)
+    at Object.compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:398:16)
+    at handleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:235:18)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:16)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+ 2024-08-16 11:41:59 || error | SyntaxError: Unexpected token 'var' in C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+    at new Function (<anonymous>)
+    at Template.compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12)
+    at Object.compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:398:16)
+    at handleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:235:18)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:16)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)

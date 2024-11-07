@@ -1,0 +1,115 @@
+ 2024-08-21 09:31:10 || error | dataCommentHandler : Can't report to JIRA. Please check the error TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+ 2024-08-21 09:31:10 || error | /api/v1/report Error 500, Internal Server Error in dataUpdateHandler:TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+ 2024-08-21 09:42:53 || error | dataCommentHandler : Can't report to JIRA. Please check the error : TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+ 2024-08-21 09:42:53 || error | /api/v1/report Error 500, Internal Server Error in dataUpdateHandler:TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+ 2024-08-21 09:45:46 || error | dataCommentHandler : Can't report to JIRA. Please check the error : TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+ 2024-08-21 09:45:46 || error | /api/v1/report Error 500, Internal Server Error in dataUpdateHandler:TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+ 2024-08-21 09:46:26 || error | dataCommentHandler : Can't report to JIRA. Please check the error : TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+ 2024-08-21 09:46:26 || error | /api/v1/report Error 500, Internal Server Error in dataUpdateHandler:TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+ 2024-08-21 09:53:10 || error | dataCommentHandler : Can't report to JIRA. Please check the error : TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+ 2024-08-21 09:53:10 || error | /api/v1/report Error 500, Internal Server Error in dataUpdateHandler:TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+ 2024-08-21 11:42:08 || error | Error reading the environment file: EISDIR: illegal operation on a directory, read
+ 2024-08-21 14:28:31 || error | Error reading the cronjobs file: registerCronJob is not defined
+ 2024-08-21 14:31:56 || error | Error reading the cronjobs file: registerCronJob is not defined
+ 2024-08-21 14:38:04 || error | Error executing cron job for TT-2:
+ 2024-08-21 14:38:04 || error | Error executing cron job for TT-3:
+ 2024-08-21 14:38:05 || error | Error executing cron job for TT-4:
+ 2024-08-21 14:39:01 || error | Error executing cron job for TT-4:
+ 2024-08-21 14:39:01 || error | Error executing cron job for TT-2:
+ 2024-08-21 14:39:01 || error | Error executing cron job for TT-3:
+ 2024-08-21 15:08:15 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:15 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:15 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:15 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:15 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:15 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:15 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:15 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:15 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:15 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:15 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:15 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:15 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:15 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:15 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:15 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:16 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:17 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:18 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:19 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:20 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:21 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:22 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:23 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:24 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:25 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:26 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:27 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:28 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:29 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:30 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:31 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:32 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:33 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:34 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:35 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:36 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:38 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:38 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:39 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:40 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:41 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:42 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:43 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:44 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:45 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:46 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:47 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:48 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:49 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:50 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:51 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:52 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:53 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:54 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:55 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:56 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:57 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:58 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:08:59 || error | Error executing cron job for TT-1:
+ 2024-08-21 15:32:19 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:80
+    78|                                             </div>
+    79|                                             <div class="faq__answer">
+ >> 80|                                                 <p class="faq__text"><%- detail.answer %></p>
+    81|                                             </div>
+    82|                                             <button class="faq__btn">
+    83|                                                 <span class="faq__icon open">+</span>
+
+detail is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:35:17)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:32:8
+ 2024-08-21 15:32:19 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:80
+    78|                                             </div>
+    79|                                             <div class="faq__answer">
+ >> 80|                                                 <p class="faq__text"><%- detail.answer %></p>
+    81|                                             </div>
+    82|                                             <button class="faq__btn">
+    83|                                                 <span class="faq__icon open">+</span>
+
+detail is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:35:17)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:32:8

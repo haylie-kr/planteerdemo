@@ -1,0 +1,532 @@
+ 2024-08-06 10:19:12 || error | TypeError: result.getResultforFront is not a function
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:28
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:47:12)
+ 2024-08-06 10:19:12 || error | TypeError: result.getResultforFront is not a function
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:28
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:47:12)
+ 2024-08-06 10:34:02 || error | TypeError: result.getResultforFront is not a function
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:29:28
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:47:12)
+ 2024-08-06 10:34:02 || error | TypeError: result.getResultforFront is not a function
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:29:28
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:47:12)
+ 2024-08-06 10:34:21 || error | TypeError: result.getResultforFront is not a function
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:29:28
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:47:12)
+ 2024-08-06 10:34:21 || error | TypeError: result.getResultforFront is not a function
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:29:28
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:47:12)
+ 2024-08-06 10:37:43 || error | TypeError: result.getResultforFront is not a function
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:29:12
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:47:12)
+ 2024-08-06 10:37:43 || error | TypeError: result.getResultforFront is not a function
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:29:12
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:646:15
+    at next (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:265:14)
+    at Function.handle (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\index.js:47:12)
+ 2024-08-06 10:45:01 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% faqs.forEach(faq => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= faq.title %></h3>
+
+faqs is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:9
+ 2024-08-06 10:45:01 || error | ReferenceError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% faqs.forEach(faq => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= faq.title %></h3>
+
+faqs is not defined
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:8)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:9
+ 2024-08-06 10:46:16 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+Cannot read properties of undefined (reading 'forEach')
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:9
+ 2024-08-06 10:46:16 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+Cannot read properties of undefined (reading 'forEach')
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:9
+ 2024-08-06 10:54:10 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:9
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-06 10:54:10 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:9
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-06 10:54:28 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:9
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-06 10:54:28 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:9
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-06 10:58:55 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-06 10:58:55 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-06 10:59:58 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-06 10:59:58 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-06 11:00:31 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:9
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-06 11:00:31 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:30:9
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-06 11:02:23 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-06 11:02:23 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+    at Layer.handle [as handle_request] (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\router\layer.js:95:5)
+ 2024-08-06 11:06:57 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+ 2024-08-06 11:06:57 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+ 2024-08-06 11:07:22 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+ 2024-08-06 11:07:22 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+ 2024-08-06 11:13:50 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+ 2024-08-06 11:13:50 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+ 2024-08-06 11:14:57 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9
+ 2024-08-06 11:14:57 || error | TypeError: C:\Users\User\Documents\Planteer for SFMI\src\views\index.ejs:74
+    72|                         <p class="lead">You can check the Result Here!</p>
+    73|                         <ul class="faq-container">
+ >> 74|                             <% details.forEach(detail => { %>
+    75|                                 <li class="faq">
+    76|                                     <div class="faq__question">
+    77|                                         <h3 class="faq__title"><%= detail.title %></h3>
+
+details.forEach is not a function
+    at eval (eval at compile (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:673:12), <anonymous>:12:16)
+    at index (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:703:17)
+    at tryHandleCache (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:274:36)
+    at exports.renderFile [as engine] (C:\Users\User\Documents\Planteer for SFMI\node_modules\ejs\lib\ejs.js:491:10)
+    at View.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\view.js:135:8)
+    at tryRender (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:657:10)
+    at Function.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\application.js:609:3)
+    at ServerResponse.render (C:\Users\User\Documents\Planteer for SFMI\node_modules\express\lib\response.js:1048:7)
+    at C:\Users\User\Documents\Planteer for SFMI\src\server.js:31:9

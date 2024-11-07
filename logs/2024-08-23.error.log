@@ -1,0 +1,2 @@
+ 2024-08-23 10:40:55 || error | dataCommentHandler : Can't report to JIRA. Please check the error : {"errorMessages":["Issue Does Not Exist"],"errors":{}}
+ 2024-08-23 10:40:55 || error | /api/v1/report Error 500, Internal Server Error in dataUpdateHandler:{"errorMessages":["Issue Does Not Exist"],"errors":{}}

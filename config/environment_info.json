@@ -1,0 +1,37 @@
+{
+    "credential" : {
+    "baseUrl" : "JIRA hostname",
+    "port" : "JIRA port",
+    "username" : "JIRA account ID",
+    "password" : "JiRA account password",
+    "accessToken" : ""
+    },
+
+    "ToscaServer" :{
+        "baseUrl" : "Tosca server IP",
+        "port" : "Tosca server port",
+        "View" : "Tosca Server View project path",
+        "User" : "View project account ID",
+        "PW" : "View project account password",
+        "accessToken": "Tosca server persnal access token"
+    },
+    "PlantServer" :{
+        "baseUrl" : "Support Server IP",
+        "port" : "Support Server port"
+    },
+    "FileStorage" :{
+        "path" : "ExecutionList Log file이 저장될 디렉토리 path"
+    },
+
+    "ExecutionList" : {
+        "path" : "testevet list rawdata가 저장될 디렉토리 경로와 파일이름.json",
+        "endpoint" : "/rest/toscacommander/",   /*건들지 말 것 */
+        "htmlpath" : "trigger list 페이지가 저장될 절대 경로" /*웹 페이지로 사용됨으로 절대경로로 쓸 것*/
+    },
+
+    "ExecutionFile" : {
+        "path" : "실행 시킬 .bat 파일 경로"
+    }
+}
+
+
